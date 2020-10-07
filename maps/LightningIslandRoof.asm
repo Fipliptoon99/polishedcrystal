@@ -49,26 +49,13 @@ LightningIslandRoofSparkScript:
 	done
 
 .BeatenText:
-	text "Spark: Impressive!"
-	line "Your team is ob-"
-	cont "viously synced!"
+	text "TODO"
 	done
 
 .AfterText:
-	text "Spark: It's been a"
-	line "while since I have"
-	cont "fought someone who"
-	cont "is this strong!"
-	
-	para "I'd invite you to"
-	line "Team Instinct, but"
-	cont "you'd be better off"
-	cont "in Valor, anyway."
+	text "TODO"
 	done
 
 .RefusedText:
-	text "Spark: Oh, I see!"
-	line "Don't worry, take"
-	cont "your time to pre-"
-	cont "pare for battle!"
+	text "TODO"
 	done
