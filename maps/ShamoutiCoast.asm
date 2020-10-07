@@ -150,7 +150,7 @@ GenericTrainerSightseersCyandvi1:
 	text "Cy: Agh, we should"
 	line "have concentrated"
 	cont "on battling instead"
-	cont "of our memoirs!"
+	cont "of taking pics!"
 	
 	para "Vi: Come on, Cy!"
 	line "It's okay to lose"
