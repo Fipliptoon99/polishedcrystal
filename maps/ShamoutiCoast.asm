@@ -130,29 +130,59 @@ GenericTrainerSightseerfPilar:
 GenericTrainerSightseersCyandvi1:
 	generictrainer SIGHTSEERS, CYANDVI1, EVENT_BEAT_SIGHTSEERS_CY_AND_VI, .SeenText, .BeatenText
 
-	text "Cy: TODO"
+	text "Cy: Did you know"
+	line "that Galarian"
+	cont "Mr. Mime evolve?"
+	
+	para "It's surprising how"
+	line "different regions"
+	cont "can make a comple-"
+	cont "te difference."
 	done
 
 .SeenText:
-	text "Cy: TODO"
+	text "Cy: Hey, Vi! A tra-"
+	line "iner! Take a photo"
+	cont "of our battle!"
 	done
 
 .BeatenText:
-	text "Cy: TODO"
+	text "Cy: Agh, we should"
+	line "have concentrated"
+	cont "on battling instead"
+	cont "of our memoirs!"
+	
+	para "Vi: Come on, Cy!"
+	line "It's okay to lose"
+	cont "sometimes."
 	done
 
 GenericTrainerSightseersCyandvi2:
 	generictrainer SIGHTSEERS, CYANDVI2, EVENT_BEAT_SIGHTSEERS_CY_AND_VI, .SeenText, .BeatenText
 
-	text "Vi: TODO"
+	text "Vi: I wonder if a"
+	line "Jynx can have a"
+	cont "regional form like"
+	cont "Mr.Mime does..."
 	done
 
 .SeenText:
-	text "Vi: TODO"
+	text "Vi: Oh, a new"
+	line "trainer! Let's"
+	cont "battle them, Cy!"
+	
+	para "Cy: Let's keep our"
+	line "winning streak up!"
 	done
 
 .BeatenText:
-	text "Vi: TODO"
+	text "Vi: It seems our"
+	line "winning streak was"
+	cont "only pure luck."
+	
+	para "Cy: Don't sweat it,"
+	line "Vi! At least we"
+	cont "had fun!"
 	done
 
 GenericTrainerSwimmermAshe:
